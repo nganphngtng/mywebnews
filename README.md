@@ -1,1 +1,1 @@
-# mywebnews
+/new.html
